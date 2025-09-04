@@ -39,4 +39,4 @@ Bu proje, kullanıcıların kurslara kayıt olabildiği, ödeme yapabildiği ve 
 ## 📦 Kurulum
 1. Repo’yu indirin veya klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADI/REPO_ADI.git
+   git clone https://github.com/ShamsALHAJJI44/CorseYeri.git
